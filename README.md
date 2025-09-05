@@ -37,8 +37,9 @@ To view the results navigate to the created folder (same name as the file you an
 Open Report.txt to see a summary of findings.
 Extract the zip file to view the full outputs from each tool.
 
-Notes!
-
+Notes:
 Running as root is required for some tools, but exercise caution.
+
 Large disk or memory files may take time to process.
+
 The script is intended for educational and forensic analysis practice only!
