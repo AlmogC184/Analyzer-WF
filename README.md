@@ -38,6 +38,7 @@ Open Report.txt to see a summary of findings.
 Extract the zip file to view the full outputs from each tool.
 
 Notes:
+
 Running as root is required for some tools, but exercise caution.
 
 Large disk or memory files may take time to process.
