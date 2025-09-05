@@ -1,5 +1,5 @@
 # Analyzer-WF
-An automated tool designed to analyze both HDD images (disk files) and RAM dumps (memory images). It leverages Binwalk, Foremost, Bulk Extractor, Strings, and Volatility to extract and analyze metadata. All results are organized and packaged into a zip file for easy review.
+An automated forensics tool designed to analyze both HDD images (disk files) and RAM dumps (memory images). It leverages Binwalk, Foremost, Bulk Extractor, Strings, and Volatility to extract and analyze metadata. All results are organized and packaged into a zip file for easy review.
 
 Usage Instructions:
 Make sure you are running a Linux system with root privileges, since some tools require elevated access.
