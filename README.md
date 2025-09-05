@@ -5,9 +5,9 @@ Usage Instructions:
 Make sure you are running a Linux system with root privileges, since some tools require elevated access.
 
 Clone the repository:
-
 git clone https://github.com/AlmogC184/Analyzer-WF.git
 
+Move to folder:
 cd Analyzer-WF
 
 Make the script executable:
