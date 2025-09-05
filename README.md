@@ -21,7 +21,9 @@ When prompted, enter the full path to the memory or disk file you want to analyz
 Choose the mode of analysis:
 
 HDD – for disk images
+
 RAM – for memory dumps
+
 ALL – to run both HDD and RAM analysis
 
 The script will:
